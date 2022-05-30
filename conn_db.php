@@ -1,5 +1,5 @@
 <?php
-$dbname = 'peminjaman_ruangan';
+$dbname = 'peminjamanruangan';
 $dsn = 'mysql:dbname='.$dbname.';host=localhost';
 $user = 'root';
 $password = '';
